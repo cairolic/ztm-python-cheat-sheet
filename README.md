@@ -381,12 +381,12 @@ None
 type(None) # NoneType
 a = None
 ```
-Variable Naming Convention
---------------------------
-#variable-naming
+## Variable Naming Convention
 ```python
-snake_format
-```
+# Good naming practices
+snake_case_variable = "recommended for Python"
+camelCaseVariable = "common in JavaScript"
+PascalCaseVariable = "used for class names"
 
 Comparison Operators
 --------
