@@ -25,6 +25,7 @@ type(0.0) # float
 type(2.2) # float
 type(4E2) # float - 4*10 to the power of 2
 complex(real [, img])  # creates a complex number from a real part and an optional imaginary part
+bin(integer)	# returns the binary of the integer int('0b101', 2) return a base 2 to integer
 ```
 
 ```python
