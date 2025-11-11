@@ -78,8 +78,16 @@ name[::-1]  # eiogaeN ierdnA
 name[0:10:2]# Ade e
 # : is called slicing and has the format [ start : end : step ]
 
+long_string = '''
+WOW
+O O
+---
+'''
+
 'Hi there ' + 'Timmy' # 'Hi there Timmy' --> This is called string concatenation
 '*'*10 # **********
+
+
 ```
 
 ```python
