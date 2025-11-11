@@ -387,6 +387,8 @@ a = None
 snake_case_variable = "recommended for Python"
 camelCaseVariable = "common in JavaScript"
 PascalCaseVariable = "used for class names"
+# For constants use ALL CAPITAL LETTERS
+CONSTANT
 
 Comparison Operators
 --------
