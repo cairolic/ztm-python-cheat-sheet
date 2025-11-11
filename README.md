@@ -37,7 +37,7 @@ bin(integer)	# returns the binary of the integer int('0b101', 2) return a base 2
 10 / 3  # 3.3333333333333335
 10 // 3 # 3 --> floor division - no decimals and returns an int
 10 % 3  # 1 --> modulo operator - return the remainder. Good for deciding if number is even or odd
-some_value += 2 --> adds to to some_value and stores the result in some_value itself
+some_value += 2 --> adds 2 to some_value and stores the result in some_value itself
 
 # Precedence
 ()
