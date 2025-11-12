@@ -156,7 +156,7 @@ Lists
 ```python
 my_list = [1, 2, '3', True]# We assume this list won't mutate for each example below
 new_list = my_list 		# is not a simple copy but makes new_list point to my_list in memory
-new_list = my_list[::] 	# this copies and creates a new list
+new_list = my_list[:] 	# this copies and creates a new list
 len(my_list)               # 4
 my_list.index('3')         # 2
 my_list.count(2)           # 1 --> count how many times 2 appears
